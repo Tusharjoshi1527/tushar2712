@@ -1,2 +1,2 @@
 # tushar2712
-This my first gitup repository
+This my first git repository
